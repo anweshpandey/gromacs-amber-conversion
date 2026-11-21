@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the metadata below."
+title: "gromacs-amber-conversion"
+type: software
+authors:
+  - family-names: "Pandey"
+    given-names: "Anwesh"
+url: "https://github.com/anweshpandey/gromacs-amber-conversion"
